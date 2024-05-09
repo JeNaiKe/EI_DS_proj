@@ -1,4 +1,5 @@
-# EI_DS_proj
-ED_EI_23_24, data structures
+# EI - Data Structure
 
 Made 4 -> Varela :)
+
+Check pdf for info.

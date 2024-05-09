@@ -1,0 +1,1 @@
+void carregarError(char *line, char *errMsg);
